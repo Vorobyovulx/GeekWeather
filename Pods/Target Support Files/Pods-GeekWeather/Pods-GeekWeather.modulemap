@@ -1,0 +1,6 @@
+framework module Pods_GeekWeather {
+  umbrella header "Pods-GeekWeather-umbrella.h"
+
+  export *
+  module * { export * }
+}
